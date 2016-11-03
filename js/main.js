@@ -95,7 +95,7 @@ $(function() {
             		opacity:1
             	}, 'slow');
             	$('.bg52').delay(900).animate({
-            		bottom:'350px',
+            		top:'35%',
             		opacity:1
             	}, 'slow');
             	$('.txt5').delay(1100).animate({
@@ -192,7 +192,7 @@ $(function() {
             		opacity:0
             	}, 'slow');
             	$('.bg52').animate({
-            		bottom:'350px',
+            		top:'55%',
             		opacity:0
             	}, 'slow');
             	$('.txt5').animate({
