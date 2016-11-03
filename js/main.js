@@ -208,7 +208,7 @@ $(function() {
             		opacity: 0
             	}, 'slow');
             	$('.go').animate({
-            		top:'21%',
+            		top:'55%',
             		opacity:0
             	}, 'slow');
             }
